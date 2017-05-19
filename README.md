@@ -1,0 +1,2 @@
+# textminingschhol
+NSU project
